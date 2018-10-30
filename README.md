@@ -277,7 +277,7 @@ inclua seu endereço nas diretivas ALLOWED_HOSTS em settings.py - Apenas o domí
 
 ### Enviando configurações de .env para Heroku (Você tem que estar dentro do seguinte, onde os arquivos .env são)
 * heroku plugins:install heroku-config
-* heroku config:push -a
+* heroku config:push
 
 ### Para mostrar as configurações do heroku
 * heroku config
