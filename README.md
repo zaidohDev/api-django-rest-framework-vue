@@ -299,3 +299,19 @@ inclua seu endereço nas diretivas ALLOWED_HOSTS em settings.py - Apenas o domí
 
 ### Alterando uma configuração específica
 * heroku config:set DEBUG=True
+
+
+## PARA ACESSAR FAÇA A AUTENTICAÇÃO PRIMEIRO
+
+* https://blog-vue-django.herokuapp.com/admin/
+USER: zaidoh
+PASS: zaidoh123
+
+## VEJA A API
+* https://blog-vue-django.herokuapp.com/api/
+
+## VEJA O VUE JS CONSUMINDO A API
+* https://blog-vue-django.herokuapp.com/article/
+
+Zaidoh
+
