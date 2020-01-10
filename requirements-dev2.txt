@@ -15,7 +15,7 @@ Django==2.1
 django-autofixture==0.12.1
 django-bootstrap-form==3.4
 django-filter==2.0.0
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 docutils==0.14
 encode-dataframe==0.1
 entrypoints==0.2.3
