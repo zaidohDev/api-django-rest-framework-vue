@@ -3,7 +3,7 @@ atomicwrites==1.2.1
 attrs==18.2.0
 Babel==2.6.0
 backcall==0.1.0
-bleach==2.1.4
+bleach==3.1.4
 certifi==2018.8.24
 chardet==3.0.4
 dataframe==0.2.1.3
