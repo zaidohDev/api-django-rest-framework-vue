@@ -8,5 +8,5 @@ python-decouple==3.1
 pytz==2018.5
 static3==0.7.0
 django-filter==2.0.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 Markdown==3.0.1
